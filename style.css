@@ -1,0 +1,26 @@
+:root {
+  --title-size: 50px;
+}
+
+h1 {
+  font-size: var(--title-size);
+}
+
+h1,
+h3 {
+  text-align: center;
+  margin-top: 15px;
+}
+.about-paragraphs {
+  display: flex;
+  margin: 20px 50px;
+}
+.paragraph {
+  margin: 10px 20px;
+  background-color: bisque;
+  border-radius: 5px;
+  padding: 10px;
+}
+.email {
+  text-align: center;
+}
