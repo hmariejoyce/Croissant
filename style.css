@@ -1,7 +1,9 @@
 :root {
   --title-size: 50px;
 }
-
+body {
+  background-color: antiquewhite;
+}
 h1 {
   font-size: var(--title-size);
 }
